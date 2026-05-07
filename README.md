@@ -19,7 +19,7 @@ Proyecto desarrollado por estudiantes de la UNMSM (2025):
 | **Angel Eduardo Daniel Salazar Ruiz** (@angelslzrr) | Desarrollo Backend & Lógica |
 | **Italo Josué Hurtado Flores** | Arquitectura de Software |
 | **Alejandro Sachahuaman Jaramillo** | Interfaces Gráficas (Swing) |
-| **Miguel Angel Villegas Torres** | Base de Datos (MySQL) |
+| **Miguel Angel Villegas Torres** (@MAngelVillegasTorres)| Base de Datos (MySQL) |
 
 ---
 
